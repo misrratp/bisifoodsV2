@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223286869449",
+    "project_id": "bisifoods-65aa6",
+    "storage_bucket": "bisifoods-65aa6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223286869449:android:a4643778c248c1e1e8fc18",
+        "android_client_info": {
+          "package_name": "com.example.bisifoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqEObFffEWqj3qpp-OaUJY3_1OTk6Nb8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
